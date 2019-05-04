@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpicRipper", "EpicRipper\EpicRipper.csproj", "{37BCE81F-97CC-42C3-8925-00E720AE0391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37BCE81F-97CC-42C3-8925-00E720AE0391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37BCE81F-97CC-42C3-8925-00E720AE0391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37BCE81F-97CC-42C3-8925-00E720AE0391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37BCE81F-97CC-42C3-8925-00E720AE0391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF121BE3-EC28-4E09-97CD-9FC955FBF1F7}
+	EndGlobalSection
+EndGlobal

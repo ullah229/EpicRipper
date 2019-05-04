@@ -1,0 +1,7 @@
+C:\Users\Ullah\source\repos\EpicRipper\EpicRipper\obj\Debug\EpicRipper.csprojAssemblyReference.cache
+C:\Users\Ullah\source\repos\EpicRipper\EpicRipper\obj\Debug\EpicRipper.csproj.CoreCompileInputs.cache
+C:\Users\Ullah\source\repos\EpicRipper\EpicRipper\bin\Debug\PedoRipper.exe.config
+C:\Users\Ullah\source\repos\EpicRipper\EpicRipper\bin\Debug\PedoRipper.exe
+C:\Users\Ullah\source\repos\EpicRipper\EpicRipper\bin\Debug\PedoRipper.pdb
+C:\Users\Ullah\source\repos\EpicRipper\EpicRipper\obj\Debug\PedoRipper.exe
+C:\Users\Ullah\source\repos\EpicRipper\EpicRipper\obj\Debug\PedoRipper.pdb
